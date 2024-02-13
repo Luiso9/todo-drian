@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-drian/static/css/main.4560e1ea.css",
+    "main.js": "/todo-drian/static/js/main.974440b0.js",
+    "static/js/592.a3e6a9db.chunk.js": "/todo-drian/static/js/592.a3e6a9db.chunk.js",
+    "index.html": "/todo-drian/index.html",
+    "main.4560e1ea.css.map": "/todo-drian/static/css/main.4560e1ea.css.map",
+    "main.974440b0.js.map": "/todo-drian/static/js/main.974440b0.js.map",
+    "592.a3e6a9db.chunk.js.map": "/todo-drian/static/js/592.a3e6a9db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4560e1ea.css",
+    "static/js/main.974440b0.js"
+  ]
+}
